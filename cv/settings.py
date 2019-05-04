@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'cv.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'cv',
+        'NAME': 'aryan_cv',
         'USER': 'aryan',
         'PASSWORD': 'probook',
         'HOST': 'localhost',
